@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#Arduino secrets
+PLA7/arduino_secrets.h
