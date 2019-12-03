@@ -1,3 +1,5 @@
 {
-    "board": "arduino:samd:mkr1000"
+    "board": "arduino:samd:mkr1000",
+    "port": "COM16",
+    "sketch": "PLA8\\MKREnv101_Wifi.ino"
 }
