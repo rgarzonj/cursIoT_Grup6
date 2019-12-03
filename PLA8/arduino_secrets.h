@@ -1,6 +1,0 @@
-#define SECRET_SSID "WiFiOcupes"
-#define SECRET_PASS "audi2076"
-#define SECRET_MQTT_CLIENT_ID "XXX"
-#define SECRET_MQTT_HOST "192.168.1.38"
-#define SECRET_MQTT_USER "mqtt"
-#define SECRET_MQTT_PASS "123456"
